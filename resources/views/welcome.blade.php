@@ -13,7 +13,7 @@
     <ul>
         <li><a href="/">home</a></li>
         <li><a href="/contacts">Ir para contatos</a></li>
-        <li><a href="git s/portifolio">Meu Portifolio</a></li>
+        <li><a href="/portifolio">Meu Portifolio</a></li>
     </ul>
 </body>
 </html>
